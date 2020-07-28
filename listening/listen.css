@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(87, 86, 85);
+}
+
+.box{
+    max-width: 6em;
+    height: 6em;
+    border: 3px solid rgb(171, 194, 133) ;
+    color: slateblue;
+}
+
+.text{
+    color: rgb(224, 107, 195);
+}
+
+hr{
+    border: 1px  solid rgb(153, 80, 80)
+}
+
+.text-box{
+    max-width: 150px;
+    max-height: 90px;
+    border: 1px solid navy;
+    background-color: pink;
+    display: inline-block;
+    
+}
+h3{
+    background-color: pink;
+}
+h1{
+    display: inline-block;
+    color: rgb(78, 172, 133);
+    color: rgb(204, 187, 242);
+}
